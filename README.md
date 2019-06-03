@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Privacy Policy
+## built the OR- Would You Rather app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
-You can use the [editor on GitHub](https://github.com/Elijah-Dangerfield/Would-You-Rather-Privacy-Policy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-### Markdown
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at OR- Would You Rather unless otherwise defined in this Privacy Policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Information Collection and Use
 
-```markdown
-Syntax highlighted code block
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-# Header 1
-## Header 2
-### Header 3
+The app does use third party services that may collect information used to identify you.
 
-- Bulleted
-- List
+## Children’s Privacy
 
-1. Numbered
-2. List
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
-**Bold** and _Italic_ and `Code` text
+Changes to This Privacy Policy
 
-[Link](url) and ![Image](src)
-```
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact Us
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Elijah-Dangerfield/Would-You-Rather-Privacy-Policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at elijahdangerfield111@gmail.com.
