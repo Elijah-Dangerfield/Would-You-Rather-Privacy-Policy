@@ -1,4 +1,7 @@
 # Privacy Policy
+
+[logo]: https://github.com/Elijah-Dangerfield/Would-You-Rather-Privacy-Policy/blob/master/Logo.png "Would You Rather Logo"
+
 ## The OR- Would You Rather app is a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
